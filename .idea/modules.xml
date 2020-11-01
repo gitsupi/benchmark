@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/django/django.iml" filepath="$PROJECT_DIR$/django/django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expressjs/expressjs.iml" filepath="$PROJECT_DIR$/expressjs/expressjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gofiber/gofiber.iml" filepath="$PROJECT_DIR$/gofiber/gofiber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gogin/gogin.iml" filepath="$PROJECT_DIR$/gogin/gogin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+**/idea/
+**/node_modules/
+**/**.iml
+**/**.ipr
+
+
+
+# Project exclude paths
+/jooby/target/
